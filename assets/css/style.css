@@ -16,14 +16,15 @@ body {
 }
 
 .key {
+  width: 80px;
   background: rgba(0, 0, 0, .8);
   padding: 1.5rem;
   color: orange;
   margin: 0 .6rem;
   border-radius: .5rem;
   border: 3px solid #000;
-  font-size: 1.5rem;
-  transition: all .2s linear;
+  font-size: .8rem;
+  transition: all .05s linear;
 
   display: flex;
   flex-direction: column;
